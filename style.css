@@ -1,14 +1,14 @@
 body{
-	background-color: #ECE5C7;
+	background-image: url(/imgs/space_background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 30px;
 }
 h1{
-	color: #CDC2AE;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 50px;
-	font-weight: 700;
 	text-align: center;
-	padding: 20px 50px;
-	background-color: #354259;
 	display: inline-block;
 	border-radius: 12px;
 }
